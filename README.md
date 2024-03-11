@@ -1,0 +1,1 @@
+Bot simples para monitorar as mensagens do chat no twitch.
